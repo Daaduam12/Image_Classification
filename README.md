@@ -22,3 +22,6 @@ The undertaken tasks encompassed the creation of a dataset for both training and
 
 ![Screenshot 2024-02-24 at 11 14 48 PM](https://github.com/Daaduam12/Image_Classification/assets/160546656/902a5069-3458-460d-a0dc-093b854f410c)
 
+
+## VALIDATION AND CONFIDENCE LEVEL OF THE MODEL
+![Screenshot 2024-02-24 at 11 35 57 PM](https://github.com/Daaduam12/Image_Classification/assets/160546656/59b5a0b4-02b3-4256-a1c8-28a2de61a4ea)
